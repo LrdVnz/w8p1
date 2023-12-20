@@ -1,0 +1,20 @@
+body {
+    margin: 10px; 
+    background-color: gray;
+}
+
+h1 {
+    width: fit-content;
+    margin: auto;
+}
+
+
+.card {
+    margin: 30px; 
+    border-radius: 30px; 
+    border: 3px dotted darkblue; 
+}
+
+nav.navbar > div.container-fluid > *, nav.navbar > div.container-fluid > div.navbar-collapse > ul >  * {
+    margin-left: 30px; 
+}
