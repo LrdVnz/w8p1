@@ -1,6 +1,5 @@
 body {
-    margin: 10px; 
-    background-color: gray;
+    background-color: rgb(255, 212, 137);
 }
 
 h1 {
@@ -17,4 +16,14 @@ h1 {
 
 nav.navbar > div.container-fluid > *, nav.navbar > div.container-fluid > div.navbar-collapse > ul >  * {
     margin-left: 30px; 
+}
+
+.new {
+    border: 1px solid rgb(199, 72, 72);
+    background-color: rgb(255, 236, 185);
+}
+
+.classics {
+    border: 1px solid rgb(201, 153, 153);
+    background-color: rgb(255, 236, 185);
 }
